@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TxsingLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TxsingLib_jar</output-path>
+    <root id="archive" name="TxsingLib.jar">
+      <element id="module-output" name="TxsingLib" />
+    </root>
+  </artifact>
+</component>
